@@ -1,23 +1,16 @@
 
 
-# Facial Expression Recognition
+Expression Recognition
 Used Convolutional neural networks (CNN) for facial expression recognition . The goal is to classify each facial image into one of the seven facial emotion categories considered .
-## Data :
+Data :
 trained and tested our models on the data set from the [Kaggle Facial Expression Recognition Challenge](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge), which comprises 48-by-48-pixel grayscale images of human faces,each labeled with one of 7 emotion categories:<strong> anger, disgust, fear, happiness, sadness, surprise, and neutral </strong>.
 <br><br>
  Image set of 35,887 examples, with training-set : dev-set: test-set as <strong> 80 : 10 : 10 </strong>.
 
-## Dependencies
+Dependencies
  Python 2.7, sklearn, numpy, Keras.
 
-## Library Used:
-  <ul>
-	  <li> Keras </li>
-	  <li> Sklearn </li>
-	  <li> numpy </li>
-  </ul>
-
-## Getting started
+Getting started
 
   To run the code -
 
