@@ -18,15 +18,13 @@ Getting started
   1. Download FER2013 dataset from [Kaggle Facial Expression Recognition Challenge](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge) and extract in the main folder.
 
   2. To run deep CNN model. Open terminal and navigate to the project folder and run cnn_major.py file
-    <pre>
+    
     python cnn_major.py
-    </pre>
-    No need to train the model , already trained weights saved in model4layer_2_2_pool.h5 file.
-
+    
   3. Want to train model yourself ?<br>
       Just change the statement
-      <pre>
+
         is_model_saved = True
         // to
         is_model_saved = False
-      </pre>
+
