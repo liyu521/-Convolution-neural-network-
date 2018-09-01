@@ -1,6 +1,7 @@
 
 
 Expression Recognition
+
 Used Convolutional neural networks (CNN) for facial expression recognition . The goal is to classify each facial image into one of the seven facial emotion categories considered .
 Data :
 trained and tested our models on the data set from the [Kaggle Facial Expression Recognition Challenge](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge), which comprises 48-by-48-pixel grayscale images of human faces,each labeled with one of 7 emotion categories:<strong> anger, disgust, fear, happiness, sadness, surprise, and neutral </strong>.
