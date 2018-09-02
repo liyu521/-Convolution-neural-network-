@@ -21,10 +21,4 @@ Getting started
     
     python cnn_major.py
     
-  3. Want to train model yourself ?<br>
-      Just change the statement
-
-        is_model_saved = True
-        // to
-        is_model_saved = False
 
